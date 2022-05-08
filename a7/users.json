@@ -1,0 +1,13 @@
+{
+    "murtuza":{
+        "id":1,
+        "name":"Murtuza Husain",
+        "verified":1
+    },
+    "Rohit":
+    {
+        "id":2,
+        "name":"Rohit Sharma",
+        "verified":0
+    }
+}

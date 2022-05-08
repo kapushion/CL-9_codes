@@ -1,0 +1,24 @@
+{
+    "murtuza":{
+        "home":[
+            "Water Plants",
+            "Clean Windows"
+        ],
+        "School":
+        [
+            "Do homework",
+            "Submit Assignment"
+        ]
+    },
+    "rohit":{
+        "home":[
+            "Water Plants",
+            "Clean Windows"
+        ],
+        "School":
+        [
+            "Do homework",
+            "Submit Assignment"
+        ]
+    }
+}
